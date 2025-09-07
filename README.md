@@ -1,4 +1,4 @@
-![logo](https://github.com/Himesh-Prajapati/Himesh-Prajapati/blob/main/Black%20Elegant%20Modern%20Personal%20LinkedIn%20Banner.jpg)
+![logo](https://github.com/Himesh-Prajapati/Himesh-Prajapati/blob/main/Grey%20and%20Black%20Simple%20Marketing%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Himesh Prajapati</h1>
 <h3 align="center">A passionate Data Analyst & Aspiring Data Scientist from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
