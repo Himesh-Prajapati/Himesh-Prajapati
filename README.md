@@ -1,40 +1,147 @@
 ![logo](https://github.com/Himesh-Prajapati/Himesh-Prajapati/blob/main/Grey%20and%20Black%20Simple%20Marketing%20LinkedIn%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Himesh Prajapati</h1>
-<h3 align="center">A passionate Data Analyst & Aspiring Data Scientist from India</h3>
+<h3 align="center">Software Engineer | MERN Stack Developer | Java & DSA Enthusiast | Exploring Spring Boot</h3>
+
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🌱 I’m currently mastering **SQL, Power BI, Excel, Python (Pandas, NumPy, Matplotlib, Seaborn), and Statistics**.  
+### 🚀 About Me
 
-- 👨‍💻 Check out my projects on **[GitHub Portfolio](https://github.com/Himesh-Prajapati/PortFolio.git)**  
-
-- 💬 Ask me about **Data Analysis, Dashboard Development (Power BI, Tableau), Python for Data, and SQL Queries**  
-
-- 📫 Reach me at **prajapatihimesh84357@gmail.com**  
+* 💻 Software Engineer passionate about building scalable web applications.
+* 🌱 Currently exploring **Spring Boot, Microservices, and Backend Development**.
+* ⚡ Strong foundation in **Java, Data Structures & Algorithms (DSA)**.
+* 🔥 Experienced with **MERN Stack Development (MongoDB, Express.js, React.js, Node.js)**.
+* 🎯 Preparing for Software Development Engineer (SDE) roles.
+* 🛠️ Building full-stack applications and continuously improving problem-solving skills.
 
 ---
 
-<h3 align="left">📊 Connect with me:</h3>
+### 👨‍💻 Portfolio & Projects
+
+* 🌐 Portfolio: https://github.com/Himesh-Prajapati/PortFolio
+* 🚀 Featured Projects:
+
+  * Employee Management System (MERN)
+  * Travel Ease
+  * E-Commerce Platform
+  * Job Portal
+  * Task Management System
+
+---
+
+### 💬 Ask Me About
+
+* Java
+* Data Structures & Algorithms
+* React.js
+* Node.js
+* Express.js
+* MongoDB
+* REST APIs
+* Spring Boot Basics
+* Git & GitHub
+
+---
+
+### 📫 Contact Me
+
+* 📧 Email: [prajapatihimesh84357@gmail.com](mailto:prajapatihimesh84357@gmail.com)
+* 💼 LinkedIn: https://www.linkedin.com/in/himesh-prajapati-68b06a356
+
+---
+
+<h3 align="left">🌐 Connect With Me</h3>
+
 <p align="left">
-<a href="https://www.linkedin.com/in/himesh-prajapati-68b06a356" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="40" width="40" /></a>
-<a href="https://instagram.com/h.i.m.e.s.h_8_4" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/himesh-prajapati-68b06a356" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" />
+</a>
+
+<a href="https://instagram.com/h.i.m.e.s.h_8_4" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" width="40" />
+</a>
 </p>
 
 ---
 
-<h3 align="left">🛠️ Languages & Tools:</h3>
+<h3 align="left">🛠️ Languages & Tools</h3>
+
 <p align="left">
-<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-<a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40"/></a>
-<a href="https://numpy.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="40" height="40"/></a>
-<a href="https://matplotlib.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" height="40"/></a>
-<a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/></a>
-<a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="40" height="40"/></a>
-<a href="https://public.tableau.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://img.icons8.com/color/452/microsoft-excel-2019--v1.png" width="40" height="40"/></a>
+
+<a href="https://www.java.com/">
+<img src="https://skillicons.dev/icons?i=java" width="45" height="45"/>
+</a>
+
+<a href="https://spring.io/projects/spring-boot">
+<img src="https://skillicons.dev/icons?i=spring" width="45" height="45"/>
+</a>
+
+<a href="https://react.dev">
+<img src="https://skillicons.dev/icons?i=react" width="45" height="45"/>
+</a>
+
+<a href="https://nodejs.org">
+<img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45"/>
+</a>
+
+<a href="https://expressjs.com">
+<img src="https://skillicons.dev/icons?i=express" width="45" height="45"/>
+</a>
+
+<a href="https://www.mongodb.com">
+<img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45"/>
+</a>
+
+<a href="https://www.mysql.com">
+<img src="https://skillicons.dev/icons?i=mysql" width="45" height="45"/>
+</a>
+
+<a href="https://git-scm.com">
+<img src="https://skillicons.dev/icons?i=git" width="45" height="45"/>
+</a>
+
+<a href="https://github.com">
+<img src="https://skillicons.dev/icons?i=github" width="45" height="45"/>
+</a>
+
+<a href="https://www.postman.com">
+<img src="https://skillicons.dev/icons?i=postman" width="45" height="45"/>
+</a>
+
+<a href="https://code.visualstudio.com">
+<img src="https://skillicons.dev/icons?i=vscode" width="45" height="45"/>
+</a>
+
 </p>
 
 ---
 
-<h3 align="left">📈 GitHub Stats:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=himesh-prajapati&show_icons=true&locale=en&layout=compact" alt="himesh-prajapati" /></p>
+### 📊 GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Himesh-Prajapati&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himesh-Prajapati&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Himesh-Prajapati&theme=tokyonight" />
+</p>
+
+---
+
+### 🎯 2026 Goals
+
+* Master Spring Boot & Microservices
+* Become an SDE (Software Development Engineer)
+* Solve 500+ DSA Problems
+* Build Production-Ready Full Stack Applications
+* Contribute to Open Source Projects
+
+---
+
+### ⚡ Fun Fact
+
+> "I enjoy transforming ideas into scalable software solutions and continuously learning new technologies to become a better engineer every day."
