@@ -1,4 +1,4 @@
-![logo](https://github.com/Himesh-Prajapati/Himesh-Prajapati/blob/main/Grey%20and%20Black%20Simple%20Marketing%20LinkedIn%20Banner.png)
+
 
 <h1 align="center">Hi 👋, I'm Himesh Prajapati</h1>
 <h3 align="center">Software Engineer | MERN Stack Developer | Java & DSA Enthusiast | Exploring Spring Boot</h3>
